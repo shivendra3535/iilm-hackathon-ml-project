@@ -1,0 +1,41 @@
+experience_id,experience_name,location,category,description,rating,price
+11,Taj Mahal Tour,Agra,Historical Tour,Discover the breathtaking beauty and rich history of the Taj Mahal in Agra.,4.9,2000.0
+12,Spice Market Exploration,Delhi,Market Tour,Experience the vibrant colors and aromatic spices of Delhi's spice markets.,4.5,30.0
+13,Backwater Cruise,Kerala,Cruise,Sail through the serene backwaters of Kerala on a traditional houseboat.,4.7,150.0
+14,Trekking in the Himalayas,Himachal Pradesh,Adventure,Embark on an exhilarating trekking adventure in the majestic Himalayan mountains.,4.8,100.0
+15,Ayurvedic Massage Retreat,Goa,Wellness Retreat,Relax and rejuvenate with traditional Ayurvedic massages amidst the tranquil beaches of Goa.,4.6,80.0
+16,Cultural Dance Show,Rajasthan,Cultural Performance,Immerse yourself in the vibrant culture of Rajasthan with traditional dance performances.,4.4,50.0
+17,Tea Plantation Tour,Darjeeling,Plantation Tour,Explore the scenic tea plantations of Darjeeling and learn about the tea-making process.,4.7,40.0
+18,Yoga Retreat,Rishikesh,Wellness Retreat,Embark on a spiritual journey with yoga and meditation retreats in the yoga capital of the world.,4.9,120.0
+19,Folk Music Concert,Uttar Pradesh,Cultural Performance,Experience the soulful melodies of Indian folk music in the heart of Uttar Pradesh.,4.5,60.0
+20,Cooking Class,Jaipur,Cooking Class,Learn the secrets of Rajasthani cuisine with hands-on cooking classes in Jaipur.,4.8,70.0
+21,Golden Temple Visit,Amritsar,Religious Tour,Visit the iconic Golden Temple in Amritsar and experience its spiritual significance.,4.7,0.0
+22,Jungle Safari,Bandhavgarh,Adventure,Embark on an exciting jungle safari in Bandhavgarh National Park.,4.6,120.0
+23,Elephant Ride,Jaipur,Adventure,Ride on majestic elephants and explore the historic landmarks of Jaipur.,4.5,50.0
+24,Kathakali Dance Performance,Kochi,Cultural Performance,Witness the mesmerizing Kathakali dance performance in Kochi.,4.8,70.0
+25,Houseboat Stay,Alleppey,Cruise,Experience a luxurious stay in traditional houseboats amidst the backwaters of Alleppey.,4.9,200.0
+26,Bird Watching Tour,Bharatpur,Nature Tour,Explore the Bharatpur Bird Sanctuary and spot a wide variety of bird species.,4.4,40.0
+27,Desert Safari,Jaisalmer,Adventure,Embark on an exhilarating desert safari and experience the beauty of the Thar Desert.,4.7,80.0
+28,Spa Retreat,Udaipur,Wellness Retreat,Indulge in a rejuvenating spa retreat and pamper yourself amidst the serene lakes of Udaipur.,4.6,150.0
+29,Boat Ride to Elephanta Caves,Mumbai,Historical Tour,Take a boat ride to the Elephanta Caves and explore the ancient sculptures and architecture.,4.5,60.0
+30,Horseback Riding,Manali,Adventure,Experience the thrill of horseback riding amidst the picturesque landscapes of Manali.,4.8,90.0
+31,White Water Rafting,Rishikesh,Adventure,Experience the thrill of white water rafting in the rapids of the Ganges River.,4.9,80.0
+32,Tiger Safari,Ranthambore,Wildlife Tour,Embark on a tiger safari in Ranthambore National Park and spot majestic Bengal tigers.,4.7,100.0
+33,Tibetan Monastery Visit,Dharamshala,Cultural Tour,Visit the serene Tibetan monasteries in Dharamshala and learn about Tibetan culture.,4.6,0.0
+34,Camel Safari,Pushkar,Adventure,Enjoy a camel safari in the desert landscape of Pushkar and witness stunning sunset views.,4.5,70.0
+35,Ganges River Boat Tour,Varanasi,Spiritual Tour,Take a boat tour on the sacred Ganges River and witness the evening aarti ceremony in Varanasi.,4.8,50.0
+36,Sikkim Trekking Expedition,Gangtok,Adventure,Embark on a challenging trekking expedition in the breathtaking landscapes of Sikkim.,4.9,120.0
+37,Kathmandu Cultural Tour,Kathmandu,Cultural Tour,Explore the rich cultural heritage of Kathmandu with visits to ancient temples and palaces.,4.7,150.0
+38,Goan Beach Party,Goa,Nightlife Tour,Experience the vibrant nightlife of Goa with beach parties and live music.,4.8,0.0
+39,Bollywood Studio Tour,Mumbai,Entertainment Tour,Take a behind-the-scenes tour of Bollywood studios and witness the magic of Indian cinema.,4.6,60.0
+40,Pondicherry Cycling Tour,Pondicherry,Adventure,Explore the charming streets of Pondicherry on a guided cycling tour.,4.7,30.0
+41,Goa Scuba Diving,Goa,Adventure,Explore the underwater world with scuba diving adventures in Goa.,4.9,150.0
+42,Mysore Palace Tour,Mysore,Historical Tour,Discover the opulent Mysore Palace and its rich architectural heritage.,4.8,50.0
+43,Kerala Houseboat Stay,Alleppey,Cruise,Enjoy an overnight stay in luxurious houseboats while cruising through Kerala backwaters.,4.7,200.0
+44,Leh Ladakh Motorcycle Tour,Leh,Adventure,Embark on an adrenaline-pumping motorcycle tour through the rugged terrains of Leh Ladakh.,4.6,180.0
+45,Kanyakumari Sunrise Tour,Kanyakumari,Sightseeing Tour,Witness the breathtaking sunrise over the confluence of three seas in Kanyakumari.,4.5,40.0
+46,Kolkata Street Food Tour,Kolkata,Food Tour,Indulge in a gastronomic adventure with a street food tour through the bustling streets of Kolkata.,4.4,20.0
+47,Gujarat Handicrafts Shopping,Ahmedabad,Shopping Tour,Shop for exquisite handicrafts and traditional artifacts in the vibrant markets of Gujarat.,4.8,70.0
+48,Haridwar Ganga Aarti,Haridwar,Spiritual Tour,Experience the divine Ganga Aarti ceremony on the banks of the holy Ganges River in Haridwar.,4.9,0.0
+49,Jodhpur Desert Camping,Jodhpur,Adventure,Camp under the starry sky and experience the tranquility of the Thar Desert in Jodhpur.,4.7,100.0
+50,Udaipur Lake Pichola Boat Ride,Udaipur,Sightseeing Tour,Enjoy a scenic boat ride on Lake Pichola and admire the majestic palaces and forts of Udaipur.,4.6,80.0
